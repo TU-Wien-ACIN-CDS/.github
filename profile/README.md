@@ -1,4 +1,6 @@
-# Complex Dynamical Systems (CDS) @ TU Wien
+# Automation & Control Institute (ACIN) @ TU Wien
+![ACIN](acin.png)
+# Complex Dynamical Systems (CDS)
 The [Complex Dynamical Systems](https://www.acin.tuwien.ac.at/en/komplexe-dynamische-systeme-cds/) group does research in the field of modeling, simulation, analysis, optimization and control of complex dynamical systems as well as in image processing, sensor fusion, and cognitive robotics. The primary goal of our research is the improvement of the system behavior in view of the dynamic properties, the accuracy, the robustness, the reliability, the flexibility, the productivity, the overall equipment efficiency (energy, resources) by reducing the product costs at the same time.
 
 | **Nonlinear Systems** | **Industrial Robotics** | **Photonic and Quantum Systems** |
